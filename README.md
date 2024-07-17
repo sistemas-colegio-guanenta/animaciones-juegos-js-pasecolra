@@ -10,8 +10,8 @@
 - Para utilizar el código JS, debemos esperar a que todos los elementos HTML hayan sido creados antes de ser utilizados.
 
 - Alternativas:
-    - Colocar el script en la parte inferior de la página.
-    - Utilizar un detector de eventos que nos indique cuando los elementos han sido creados. (evento onload desde el body o script)
+- Colocar el script en la parte inferior de la página.
+- Utilizar un detector de eventos que nos indique cuando los elementos han sido creados. (evento onload desde el body o script)
 
 - Se crea una variable canvas por medio del identificador de la etiqueta
 - Se verifica si la variable se creó correctamente
